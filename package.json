@@ -1,0 +1,30 @@
+{
+    "author": "Benni",
+    "dependencies": {},
+    "keywords": [],
+    "name": "blueanalog",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "BlueAnalog",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "bed9900a-dd50-4200-9025-d286bbd9a03c",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
